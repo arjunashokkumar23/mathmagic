@@ -36,3 +36,97 @@
     transform: rotate(360deg);
   }
 }
+
+.homepage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+  padding-right: 0px;
+}
+
+.startbtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 80px;
+  padding-left: 300px;
+}
+
+input[type=text] {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 75%;
+  padding: 12px 20px;
+  margin: 4px 0;
+  box-sizing: border-box;
+  text-align: justify;
+  font-size: 20px;
+  font-family: 'Pangolin', cursive;
+}
+
+input[type=text]:focus {
+  border: 3px solid;
+}
+
+.home {
+  display: flex;
+  padding-left: 300px;
+  padding-top: 70px;
+}
+
+.firstvar {
+  padding-top: 40px;
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Pangolin', cursive;
+}
+
+.plussymbol {
+  font-size: 45px;
+  text-align: center;
+  font-family: 'Pangolin', cursive;
+}
+
+.secondvar {
+  font-size: 70px;
+  text-align: center;
+  font-family: 'Pangolin', cursive;
+}
+
+.equalsymbol {
+  text-align: center;
+  font-size: 45px;
+  font-family: 'Pangolin', cursive;
+}
+
+.submitbtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 5px; 
+}
+
+.inputfield {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 7px; 
+  max-width: 500px;
+}
+
+.tutorialblk {
+  display: flex;
+}
+
+.kid1 {
+  padding-top: 230px;
+  padding-right: 270px;
+}
+
+.kid2 {
+  padding-top: 200px;
+  padding-left: 350px;
+  justify-content: right;
+}
